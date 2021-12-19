@@ -1,11 +1,9 @@
 // WiFi Configuration
 const char* ssid = "4GUFI_6914";
 const char* password = "Xxitt6969";
-//const char* ssid = "MiFibra-2D79";
-//const char* password = "oqnQYSp3";
 
 // MQTT Configuration
-const char* mqtt_server = "domohome.ddns.jazztel.es";
+const char* mqtt_server = "mcortshome.mooo.com";
 const int mqtt_port = 11883;
 const char* mqtt_id = "mcorts-rak7258-auto";
 const char* mqtt_sub_topic_healthcheck = "/outdoors/mcorts-rak7258-auto/alive";
